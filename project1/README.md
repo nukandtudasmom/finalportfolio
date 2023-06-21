@@ -20,4 +20,6 @@ Angualar, VS Code, Visual Studio, Swagger API
 ### JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders**			
 
 - Because I had already been working with stored procedures on another group project, i was able to help assist with location of the stored procedure, how to update them and label new procs to be used by the API
-* In addition, I have been able to communicate to my manager how the application can be altered to benefit our sister group with their process of datasets. 
+* In addition, I have been able to communicate to my manager how the application can be altered to benefit our sister group with their process of datasets.
+
+  ### JF 4.2 Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security.				
